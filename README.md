@@ -132,7 +132,6 @@ smoking-probability-prediction/
 ├── data/
 │   ├── train.csv                 # обучающая выборка
 │   ├── test.csv                  # тестовая выборка
-│   └── sample_submission.csv     # шаблон отправки
 ├── notebooks/
 │   └── smoking_probability_prediction.ipynb
 ├── plots/
