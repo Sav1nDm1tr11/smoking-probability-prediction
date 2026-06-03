@@ -111,7 +111,7 @@ Cleanlab использовался для поиска потенциально
 | Tuned LightGBM | 0.8863 |
 | Baseline CatBoost | 0.8868 |
 
-Итоговый public leaderboard score: **0.88012**.
+Итоговый public leaderboard score: **0.8880**.
 
 Ключевые выводы:
 
